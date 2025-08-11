@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="001f95e5839fa61078cf9370ceaad3da" sys_domain="global" table="x_58872_needit_needit2" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-11 09:00:18</sys_created_on>
+            <sys_id>6c1fd5e5839fa61078cf9370ceaad34b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-11 09:00:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-11 09:00:18</sys_created_on>
+            <sys_id>e01fd5e5839fa61078cf9370ceaad34c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-11 09:00:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-11 09:00:18</sys_created_on>
+            <sys_id>681fd5e5839fa61078cf9370ceaad34c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-11 09:00:18</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-11 09:00:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>001f95e5839fa61078cf9370ceaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_001f95e5839fa61078cf9370ceaad3da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-11 09:00:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>619d2626fb435ad489a2f4344eefdc53</instance_id>
+        <instance_name>dev292489</instance_name>
+        <name>sys_ui_section_001f95e5839fa61078cf9370ceaad3da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="001f95e5839fa61078cf9370ceaad3da" sys_domain="global" table="x_58872_needit_needit2" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 09:00:18</sys_created_on><sys_id>6c1fd5e5839fa61078cf9370ceaad34b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 09:00:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 09:00:18</sys_created_on><sys_id>e01fd5e5839fa61078cf9370ceaad34c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 09:00:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 09:00:18</sys_created_on><sys_id>681fd5e5839fa61078cf9370ceaad34c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit2" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">001f95e5839fa61078cf9370ceaad3da</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 09:00:18</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_58872_needit_needit2</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 09:00:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>001f95e5839fa61078cf9370ceaad3da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_001f95e5839fa61078cf9370ceaad3da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 09:00:15</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>231691875</payload_hash>
+        <record_name>NeedIt2</record_name>
+        <reverted_from/>
+        <source>2aeda0a1839ba61078cf9370ceaad3b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 09:00:18</sys_created_on>
+        <sys_id>6c1fd5e5839fa61078cf9370ceaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198985befc60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 09:00:18</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e01fd5e53d9fa610d8fde77c4b3aae4e</update_guid>
+        <update_guid_history>e01fd5e53d9fa610d8fde77c4b3aae4e:231691875</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 09:01:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2a9f619160324bfb984b13194755b389</sys_id>
+        <sys_metadata>001f95e5839fa61078cf9370ceaad3da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt2">af64b46d839ba61078cf9370ceaad3c5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_001f95e5839fa61078cf9370ceaad3da</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_001f95e5839fa61078cf9370ceaad3da">6c1fd5e5839fa61078cf9370ceaad34e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 09:01:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
